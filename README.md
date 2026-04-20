@@ -45,6 +45,7 @@ work of a business analyst in an e-commerce company.
 
 ## Dashboard Preview
 See full dashboard in `Project1_Olist_Analysis_Bahareh_Amouei.pdf`
+![Dashboard Preview](dashboard_preview.jpg)
 
 ## Files
 | File | Description |
