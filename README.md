@@ -1,7 +1,6 @@
 # Olist E-Commerce Performance Analysis
 **Tools:** Excel · SQL (SQLite) · Power BI  
 **Dataset:** Olist Brazilian E-Commerce — 99,441 orders (Kaggle)  
-**Duration:** 2 days  
 **Status:** Completed ✅
 
 ## Project Overview
