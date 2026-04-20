@@ -1,0 +1,5 @@
+delivery_speed,avg_review_score,total_orders
+1. Fast (0-7 days),4.41,30679
+2. Normal (8-14 days),4.3,37985
+3. Slow (15-21 days),4.12,16170
+4. Very Slow (21+ days),3.06,11527
